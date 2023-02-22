@@ -3,12 +3,12 @@
 /*
  * main - main function
  * _putchar :print str
- *Always return 0
+ * Always return 0
  */
 
 int main(void)
 
 {
-	printf("%s\n", "i_putchar");
+	printf("%s\n", "_putchar");
 	return (0);
 }
