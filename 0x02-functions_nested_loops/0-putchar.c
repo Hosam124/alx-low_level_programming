@@ -2,8 +2,8 @@
 #include "main.h"
 
 
-int main (void)
+int main(void)
 {	
-	printf ("%s\n","_putchar");
+	printf ("%s\n" , "_putchar");
 	return (0);
 }
